@@ -178,6 +178,8 @@ int main() {
 
     if (path.empty()) {
         std::cout << "未找到可行路径。\n";
+        //new branch for review
+        std::cout << "未找到可行路径。\n"
         return 0;
     }
 
